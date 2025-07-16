@@ -1,4 +1,5 @@
 from functools import wraps
+
 NULL_VAL = 0
 
 
